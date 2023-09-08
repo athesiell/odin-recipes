@@ -1,0 +1,2 @@
+This project shows the skills that I acquired during learning basic HTML, something like using tags: anchors, images and other elements.
+This project will also demonstrate recipes for various cuisines.
