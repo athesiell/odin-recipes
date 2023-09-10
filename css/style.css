@@ -80,3 +80,39 @@ a {
     background-color: lightgreen;
 }
 
+.container-pancake.apple-pancake {
+    background-color: azure;
+    color: hsl(0, 92%, 21%);
+}
+
+.h1-pancake {
+    font-weight: bold;
+    font-size: 40px;
+    background-color: #ff0000;
+    color: black;
+}
+
+.h2-pancake {
+    color: hwb(120 0% 50%);
+    background-color: yellow;
+    font-family: "Times New Roman", Verdana, sans-serif;
+}
+
+.ulist-pancake,
+.olist-pancake {
+    text-align: center;
+    color:black;   
+}
+
+.ulist-pancake {
+    list-style: none;
+}
+
+.olist-pancake {
+    list-style:lower-roman
+}
+
+
+.container-pancake .h2-pancake {
+    text-align: center;
+}
