@@ -45,12 +45,14 @@ display:block
 }
 
 .first {
+    background-color: beige;
     font-style: italic;
     margin-bottom: 30px;
     border: 1px solid violet;
 }
 
 .second {
+    background-color: aqua;
     font-weight: bold;
     margin-top: 25px;
     margin-bottom: 30px;
@@ -58,6 +60,7 @@ display:block
 }
 
 .third {
+    background-color: lightblue;
     margin: 5px auto;
     padding: 0px;
     border: 1px solid darkgreen;
